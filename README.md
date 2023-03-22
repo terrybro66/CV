@@ -19,7 +19,7 @@ I am a software developer recently graduated from Makers Academy looking for a c
 
 **Self-employed** August 2014 – November 2022
 
-- Taxi driver
+Taxi driver
 
 **Edocuments Ltd** October 2013 – August 2014
 
@@ -40,9 +40,6 @@ Web Designer and Front-end Developer
 - Responsible for the design and build of websites using browser-compatible HTML/XHTML/CSS and Web standards compliance.
 - Designing subscription landing pages and email newsletter campaigns, designing flash interactive subscription and data collection pages using actionscript, designing flash banners, mpus, skyscrapers.
 - Setting up content management systems for publishers to upload magazine content via a web interface, creating templates with proprietary code to interface with MySQL database tables.
-
-Web sites:
-www.apollo-magazine.co.uk, www.spectator.co.uk, www.pcpro.co.uk, www.macuser.co.uk, www.whatinvestment.co.uk, www.mandadeals.co.uk, www.businessxl.co.uk
 
 **University of East London** October 1996 - April 1997
 
